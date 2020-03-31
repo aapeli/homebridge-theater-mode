@@ -1,5 +1,5 @@
 var Service, Characteristic;
-import { scan, parseCredentials, NowPlayingInfo, AppleTV, SupportedCommand } from 'node-appletv';
+import { scan, parseCredentials, NowPlayingInfo, AppleTV, SupportedCommand } from 'node-appletv-x';
 
 export = function(homebridge: any) {
   Service = homebridge.hap.Service;

@@ -31,6 +31,6 @@
     "typescript": "^2.7.2"
   },
   "dependencies": {
-    "node-appletv": "^1.0.5"
+    "node-appletv-x": "^1.0.16"
   }
 }
